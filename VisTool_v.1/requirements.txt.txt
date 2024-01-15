@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+matplotlib.pyplot
+seaborn
+plotly.express 
+pygwalker
+streamlit.components.v1 
+warnings
+numpy 
+sklearn
